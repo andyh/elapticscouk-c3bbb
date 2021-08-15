@@ -16,6 +16,7 @@ plugins:
   - jemoji
 url: ''
 baseurl: ''
+email: "andy@elaptics.co.uk"
 title: My website
 description: This is my new website
 permalink: pretty
